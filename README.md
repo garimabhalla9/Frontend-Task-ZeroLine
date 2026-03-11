@@ -43,16 +43,6 @@ Frontend-Task
 
 ---
 
-## UI Preview
-
-(Add your screenshot here)
-
-Example:
-
-![Home Page](screenshots/homepage.png)
-
----
-
 ## How to Run the Project
 
 1. Clone the repository
@@ -64,7 +54,3 @@ git clone https://github.com/garimabhalla9/Frontend-Task-ZeroLine.git
 3. Open `index.html` in your browser
 
 ---
-
-## Assignment Objective
-
-The purpose of this task was to demonstr
